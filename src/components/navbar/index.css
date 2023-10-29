@@ -1,0 +1,6 @@
+#navbar a.active {
+    text-decoration: underline;
+    text-underline-offset: 110%;
+    text-decoration-thickness: 5px;
+    color: #1defef
+  }
